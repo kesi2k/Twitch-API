@@ -5,6 +5,10 @@ body {
 #Big_wrapper{
       text-align:center;      
 }
+#menu_header li{float:right;
+       padding: 15px;
+       list-style:none; 
+}
 #header{  
     color:blue;
 
